@@ -1,0 +1,130 @@
+body{
+	background-color: #cec19a 		
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+
+.banner h1 {
+  margin: 0;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: 80px;
+  font-family: 'Kalam', cursive;
+
+}
+
+.banner p {
+  
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  opacity: .7;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2)
+}
+
+.class h3 {
+	font-size: 25px
+}
+
+
+.btn-flat {
+  color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+  background: grey;
+  transition: background grey;
+}
+
+.btn-flat:hover {
+  background: #1BCB7F;
+  color: white;
+}
+.navbar-lewagon {
+  justify-content: space-between;
+  background:#cec19a;
+  font-size: 30px
+  
+}
+
+.navbar-lewagon .navbar-collapse {
+  flex-grow: 0;
+  font-family:"kalam";
+  }
+
+.navbar-lewagon .navbar-brand  {
+  font-family:"kalam";
+  width: 30px;
+  font-size: 35px
+  
+}
+
+.avatar {
+  width: 50px;
+  border-radius: 30%;
+}
+
+.avatar-large {
+  width: 50px;
+  border-radius: 50%;
+}
+
+.avatar-bordered {
+  width: 40px;
+  border-radius: 40%;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  border: white 1px solid;
+}
+
+.avatar-square {
+  width: 40px;
+  border-radius: 0px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  border: white 1px solid;
+}
+
+ .card h4 {
+ 	text-align: center;
+  	font-family: kalam;
+  	font-size: 50px;
+  	background-color: #ffffff63;
+  	background-position: center;
+  	position: unset;
+  	padding: 10px 0px
+ }
+
+  .card  h5 { 
+  	text-align:center;
+  	font-family: "kalam cursive";
+  	font-size: 35px;
+  	background-color: #ffffff63;
+  	color: white;
+  	position: center;
+  	margin: 10px;
+  	
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
